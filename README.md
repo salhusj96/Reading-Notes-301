@@ -10,3 +10,4 @@ A repostory for all my reading notes pertaining to class 301.
 - [Class 06 Reading Notes](Class-06.md)
 - [Class 07 Reading Notes](Class-07.md)
 - [Class 08 Reading Notes](Class-08.md)
+- [Class 09 Reading Notes](Class-09.md)
