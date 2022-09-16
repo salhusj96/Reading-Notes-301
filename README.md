@@ -14,3 +14,4 @@ A repostory for all my reading notes pertaining to class 301.
 - [Class 10 Reading Notes](Class-10.md)
 - [Class 11 Reading Notes](Class-11.md)
 - [Class 12 Reading Notes](Class-12.md)
+- [Class 13 Reading Notes](Class-13.md)
